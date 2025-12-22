@@ -130,21 +130,35 @@
             "isQuizCorrect": false
           },
           {
-            "id": 9,
-            "objectName": "water",
-            "question": "What is the chemical formula for water?",
-            "answerOptions": [
-              "CO2",
-              "O2",
-              "H2O",
-              "N2"
-            ],
-            "correctAnswerIndex": 2,
-            "isFound": false,
-            "isQuizCompleted": false,
-            "isQuizCorrect": false
+              "id": 9,
+              "objectName": "shrub",
+              "question": "Which plant is a shrub?",
+              "answerOptions": [
+                  "Rose",
+                  "Mango",
+                  "Grass",
+                  "Algae"
+              ],
+              "correctAnswerIndex": 0,
+              "isFound": false,
+              "isQuizCompleted": false,
+              "isQuizCorrect": false
+          },
+          {
+               "id": 10,
+              "objectName": "bee",
+              "question": "What do bees collect from flowers?",
+              "answerOptions": [
+                  "Water",
+                  "Nectar",
+                  "Leaves",
+                  "Seeds"
+              ],
+              "correctAnswerIndex": 1,
+              "isFound": false,
+              "isQuizCompleted": false,
+              "isQuizCorrect": false
           }
-
         ]
       }
     ]
